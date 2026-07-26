@@ -13,3 +13,18 @@ This project analyzes the IBM HR Employee Attrition dataset using SQL and Power 
 - DAX
 ## Dataset 
 IBM HR Analytics Employee Attrition Dataset
+## Dashboard Features
+- Total Employees
+- Active Employees
+- Attrition Count
+- Attrition Rate
+- Average Monthly Income
+- Average Years at Company
+- Department-wise Attrition Analysis
+- Job Role Analysis
+- Overtime Analysis
+- Age Group Analysis
+- Job Satisfaction Analysis
+- Gender Distribution
+- Interactive Slicers
+- Business Takeaway Section
