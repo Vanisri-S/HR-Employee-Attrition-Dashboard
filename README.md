@@ -48,3 +48,12 @@ IBM HR Analytics Employee Attrition Dataset
 - Average Performance Rating
 - Employees Not Promoted for More Than 5 Years
 - Top 5 Job Roles with Highest Average Income
+## What I Learned
+This project helped me:
+- Strengthen my SQL skills by solving business-focused analytical problems.
+- Improve my understanding of SQL aggregation, filtering, grouping, and sorting.
+- Gain hands-on experience creating DAX measures and KPIs in Power BI.
+- Learn how to design clean, interactive, and user-friendly dashboards.
+- Understand the importance of selecting appropriate visualizations for storytelling.
+- Improve my ability to translate business requirements into meaningful dashboards.
+- Build confidence in working on an end-to-end analytics project using real-world HR data.
