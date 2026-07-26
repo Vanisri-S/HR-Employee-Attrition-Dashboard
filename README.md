@@ -18,13 +18,14 @@ IBM HR Analytics Employee Attrition Dataset
 - Active Employees
 - Attrition Count
 - Attrition Rate
-- Average Monthly Income
-- Average Years at Company
-- Department-wise Attrition Analysis
-- Job Role Analysis
-- Overtime Analysis
-- Age Group Analysis
-- Job Satisfaction Analysis
+- Average Salary
+- Average Tenure
+- Attrition by Deartment
+- Attrition by Job Role 
+- Attrition by Overtime 
+- Attrition by Age Group 
+- Job Satisfaction vs Attrition
 - Gender Distribution
 - Interactive Slicers
-- Business Takeaway Section
+- Business Takeaway 
+- Key Insights
