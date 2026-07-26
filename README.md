@@ -11,3 +11,5 @@ This project analyzes the IBM HR Employee Attrition dataset using SQL and Power 
 - SQL (MySQL)
 - Power BI
 - DAX
+## Dataset 
+IBM HR Analytics Employee Attrition Dataset
