@@ -13,7 +13,7 @@ This project analyzes the IBM HR Employee Attrition dataset using SQL and Power 
 - DAX
 ## Dataset 
 IBM HR Analytics Employee Attrition Dataset
-## Dashboard Features
+## Dashboard Highlights
 - Total Employees
 - Active Employees
 - Attrition Count
@@ -29,8 +29,7 @@ IBM HR Analytics Employee Attrition Dataset
 - Interactive Slicers
 - Business Takeaway 
 - Key Insights
-## SQL Analysis
-## Business questions answered using SQL include:
+## Business Questions Solved Using SQL 
 - Total Employees
 - Overall Attrition Rate
 - Department-wise Employee Count
@@ -48,7 +47,7 @@ IBM HR Analytics Employee Attrition Dataset
 - Average Performance Rating
 - Employees Not Promoted for More Than 5 Years
 - Top 5 Job Roles with Highest Average Income
-## What I Learned
+## Key Learnings
 This project helped me:
 - Strengthen my SQL skills by solving business-focused analytical problems.
 - Improve my understanding of SQL aggregation, filtering, grouping, and sorting.
