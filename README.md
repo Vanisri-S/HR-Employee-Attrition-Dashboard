@@ -29,3 +29,22 @@ IBM HR Analytics Employee Attrition Dataset
 - Interactive Slicers
 - Business Takeaway 
 - Key Insights
+## SQL Analysis
+## Business questions answered using SQL include:
+Total Employees
+Overall Attrition Rate
+Department-wise Employee Count
+Department-wise Attrition Rate
+Job Role with Highest Attrition
+Average Monthly Income by Department
+Average Age by Department
+Gender Distribution
+Employees Working Overtime
+Average Job Satisfaction
+Top 10 Highest Paid Employees
+Average Salary by Job Role
+Employees with More Than 10 Years at Company
+Attrition by Marital Status
+Average Performance Rating
+Employees Not Promoted for More Than 5 Years
+Top 5 Job Roles with Highest Average Income
