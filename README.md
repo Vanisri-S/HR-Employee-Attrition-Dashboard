@@ -7,3 +7,7 @@ This project analyzes the IBM HR Employee Attrition dataset using SQL and Power 
 - Create meaningful KPIs using DAX.
 - Present business insights through effective data visualization.
 - Improve dashboard usability with interactive slicers and filters.
+## Tools & Technologies
+- SQL (MySQL)
+- Power BI
+- DAX
