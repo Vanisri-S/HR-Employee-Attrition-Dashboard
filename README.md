@@ -61,4 +61,5 @@ This project helped me:
 ## Project Preview
 This dashboard represents the final outcome of my data analytics project. It combines SQL-based analysis with interactive Power BI visualizations to present key HR metrics and employee attrition insights in a clear and user-friendly format.
 
-<img width="1197" height="767" alt="Image" src="https://github.com/user-attachments/assets/ecf85542-e098-4d09-80b2-8e2bac587cdb" />
+![HR Employee Attrition Dashboard]
+(HR Employee Attrition Dashboard 1.png)
